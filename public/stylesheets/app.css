@@ -1,0 +1,33 @@
+header {
+    background-color: rgb(255, 92, 141);
+    color: rgb(82, 74, 87);
+}
+body {
+    background-color: rgb(255, 192, 211);
+    font-family: 'Dancing Script', cursive;
+}
+
+main {
+    background-color: rgb(253, 239, 244);
+    padding: 16px;
+  }
+
+.finstagram-post {
+    margin-bottom: 48px;
+  }
+
+.finstagram-post .user-info img {
+    border-radius: 50%;
+  }
+
+css a.photo:hover{ 
+    padding: 10px; transition: padding 0.5s; 
+}
+
+a.photo{
+    transition: padding 0.5s;
+  }
+
+a.photo:hover{
+    padding: 10px;
+  }
