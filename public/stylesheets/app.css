@@ -31,3 +31,15 @@ a.photo{
 a.photo:hover{
     padding: 10px;
   }
+
+h1 a {
+  color:rgb(82, 74, 87)
+}
+
+a {
+  color:rgb(50, 50, 50)
+}
+
+a.button {
+  color: rgb(255, 92, 141)
+}
